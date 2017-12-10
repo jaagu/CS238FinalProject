@@ -1,4 +1,4 @@
-# CS229FinalProject
+# CS238FinalProject
 
 Install nba_py by doing "pip install nba_py" (https://github.com/seemethere/nba_py)
 
